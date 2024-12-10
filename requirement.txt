@@ -1,0 +1,8 @@
+streamlit
+pypdf2
+langchain
+faiss-cpu
+openai
+openpyxl>=2.5.8
+langchain-community
+tiktoken
